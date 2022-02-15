@@ -1,0 +1,28 @@
+To Do list app with User Registration, Login, Search and full Create Read Update and DELETE functionality.
+
+What are Django class based views overview video: https://youtu.be/RE0HlKch_3U
+
+Related Article: https://www.dennisivy.com/post/django...
+
+Source Code: https://github.com/divanov11/Django-T...
+
+auth [
+  admin : khadafi / khadafi123
+  user : nana / nana123456
+]
+
+Time Stamps
+00:00 - Intro & Product Demo
+2:25 - Project Setup
+9:38 - Setting up our models and database
+21:45 - Task List Page
+29:38 - Detail Page
+35:38 - Create Item
+46:25 - Update Item
+49:05 - Delete Item
+54:26 - Login/Logout
+1:07:12 - Restricted Pages
+1:10:29 - User Specific Data
+1:20:45 - User Registration
+1:32:12 - Search
+1:37:31 - Styling our pages
